@@ -2,7 +2,7 @@ header {
   background-color: lightgrey;
   font-family: applegothic;
   height: 80px;
-  font: color blue;
+  font: color green;
 }
 .containerHead {
   display: flex;
