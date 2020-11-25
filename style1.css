@@ -1,0 +1,89 @@
+header {
+  background-color: lightgrey;
+  font-family: applegothic;
+  height: 80px;
+  font: color blue;
+}
+.containerHead {
+  display: flex;
+  flex-direction: row;
+}
+
+.headerLeft {
+  display: inline-block;
+  position: left;
+  font: color red;
+  width: 200px;
+  margin-top: 20;
+  text-align: middle;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+  padding-right: 50px;
+  display: inline-block;
+  margin-left: 53px;
+  vertical-align: middle;
+  float: none;
+}
+
+.headerRight {
+  display: inline-block;
+  font: color blue;
+  text-align: justify;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 47px;
+  vertical-align: middle;
+  float: none;
+}
+
+.search {
+  display: inline-block;
+  font: color blue;
+  text-align: justify;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left:155px;
+  vertical-align: middle;
+  float: none;
+}
+
+
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.bodyLinks {
+  display: inline-block;
+  margin-left: 547px;
+  padding-right: 10px;
+  margin-top: 10px;
+  position: right;
+}
+.bodyLogo {
+  text-align: left;
+  padding-bottom: 80px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: inline-block;
+}
+
+body {
+  background-color: white;
+  font-size: 13px;
+  font-family: applegothic;
+}
+.box {
+  text-align: justify;
+  padding-top: 68px;
+  margin: 10px;
+  padding-left: 13px;
+}
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 53px;
+}
